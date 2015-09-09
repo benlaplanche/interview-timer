@@ -9,8 +9,8 @@ To run this locally, assuming you have golang installed
 
 Alternatively you can run the binary relevant to your operating system in the `builds` folder.
 
-OSX `builds/timer-osx`
-Ubunutu64 `builds/timer-linux`
+* OSX `builds/timer-osx`
+* Ubunutu64 `builds/timer-linux`
 
 To run this on bosh-lite use `builds/timer-linux`
 
